@@ -12,20 +12,18 @@ To build a simple yet powerful tool that:
 
 ## 📂 Features
 - ✅ Census data ingestion and cleaning
-- ✅ Visualization of demographic clusters (via Plotly or Folium)
+- ✅ Visualization of demographic clusters (via Plotly)
 - ✅ Basic demand estimation model using population-to-store proximity
 - ✅ Exportable tables of high-opportunity ZIP codes
 - ⏳ Future: Store-level revenue correlation and predictive modeling
 
 ## 📊 Data Sources
 - [U.S. Census Bureau ACS 5-Year Estimates](https://www.census.gov/data.html)
-- [ZIP Code Tabulation Areas (ZCTAs)](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html)
-- Retail store location data (manually sourced or scraped)
+- Retail store location data (manually sourced)
 
 ## 🛠 Tech Stack
-- Python (Pandas, GeoPandas, Plotly/Folium, Scikit-learn)
+- Python (Pandas, Plotly)
 - Jupyter Notebook
-- Optional: Flask or Streamlit (for dashboard MVP)
 
 ## 📈 Outputs
 - Interactive maps showing ZIP code demand hotspots
