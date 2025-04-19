@@ -15,7 +15,7 @@ To build a simple yet powerful tool that:
 - ✅ Visualization of demographic clusters (via Plotly)
 - ✅ Basic demand estimation model using population-to-store proximity
 - ✅ Exportable tables of high-opportunity ZIP codes
-- ⏳ Future: Store-level revenue correlation and predictive modeling
+- ⏳ Future: Store-level revenue correlation and predictive modeling, SNAP
 
 ## 📊 Data Sources
 - [U.S. Census Bureau ACS 5-Year Estimates](https://www.census.gov/data.html)
@@ -35,6 +35,25 @@ Cultural relevance and accessibility drive food purchase behavior. By identifyin
 - Increase revenue through smarter placement
 - Serve communities more authentically
 - Reduce risk and waste in logistics and marketing
+
+## 🔮 Planned Feature Enhancements
+
+To improve the accuracy and strategic value of this analysis, the following data layers will be added:
+
+### 🏷 SNAP Participation Data
+- Identify ZIP codes with high SNAP (Supplemental Nutrition Assistance Program) usage
+- Evaluate affordability alignment and potential for cost-sensitive product placement
+
+### 💰 Median Household Income
+- Assess economic fit for pricing strategies
+- Filter out low-potential areas for premium or specialty SKUs
+
+### 🛒 Grocery Store Availability
+- Cross-reference Hispanic population clusters with proximity to grocery chains
+- Detect under-served areas (high demand, low access)
+- Guide retail outreach efforts for in-store placement
+
+These data layers will feed into a composite **Opportunity Score**, ranking each ZIP by product-market fit and retail activation priority.
 
 ## 🚀 How to Run This Project
 
