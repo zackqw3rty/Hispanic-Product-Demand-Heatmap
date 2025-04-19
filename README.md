@@ -36,6 +36,42 @@ Cultural relevance and accessibility drive food purchase behavior. By identifyin
 - Serve communities more authentically
 - Reduce risk and waste in logistics and marketing
 
+## 🚀 How to Run This Project
+
+1. **Clone the repo**
+   ```bash
+   git clone git@github.com:zackqw3rty/hispanic-dem-map.git
+   cd hispanic-dem-map
+   ```
+
+2. **Set up a Python virtual environment**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+
+3. **Install required dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Start the Jupyter Notebook**
+   ```bash
+   jupyter notebook
+   ```
+
+5. **Open the file**
+   Navigate to `notebooks/demographic_heatmap.ipynb` and run all cells to visualize the heatmap.
+
+---
+
+## ✅ Requirements
+- Python 3.8+
+- pip
+- Jupyter Notebook
+- Internet connection (for map rendering via Plotly)
+
+For issues or setup help, feel free to open an issue or contact the repo owner.
 ## 🤝 Contributing
 This project is in MVP stage — feel free to fork, adapt, or suggest features via issues or pull requests.
 
