@@ -81,6 +81,8 @@ These data layers will feed into a composite **Opportunity Score**, ranking each
 
 5. **Open the file**
    Navigate to `notebooks/demographic_heatmap.ipynb` and run all cells to visualize the heatmap.
+   
+<img width="1116" height="819" alt="Screenshot 2025-12-04 at 12 42 18 PM" src="https://github.com/user-attachments/assets/0ae9d7aa-b414-4bd1-9883-edbb3b67cc3d" />
 
 ---
 
